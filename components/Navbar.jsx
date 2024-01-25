@@ -117,7 +117,7 @@ const Header = () => {
                     <Item>
                         <Link
                             target="#"
-                            href="https://www.instagram.com/igor_dumencic/"
+                            href="https://www.linkedin.com/in/daniel-nifemi-ayandiran/"
                         >
                             Linkedin
                         </Link>
@@ -147,7 +147,7 @@ const Header = () => {
                     <Item>
                         <Link
                             target="#"
-                            href="https://www.instagram.com/igor_dumencic/"
+                            href="https://www.linkedin.com/in/daniel-nifemi-ayandiran/"
                         >
                             Linkedin
                         </Link>
