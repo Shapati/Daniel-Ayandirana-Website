@@ -125,9 +125,9 @@ const Header = () => {
                     <Item>
                         <Link
                             target="#"
-                            href="https://www.behance.net/igordumencic"
+                            href="#contact"
                         >
-                            Behance
+                            Contact
                         </Link>
                     </Item>
                     <Item>

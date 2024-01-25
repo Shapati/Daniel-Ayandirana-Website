@@ -25,16 +25,20 @@ export default function HeroSection() {
                 digital vision to life!
             </p>
             <div className="flex gap-[18px] mt-[54px] lg:flex-col lg:items-center lg:justify-center ">
-                <a href="tel:07775221852" className="self-center w-[100%] lg:flex lg:justify-center">
+                <a
+                    href="tel:07775221852"
+                    className="self-center w-[100%] lg:flex lg:justify-center"
+                >
                     <button className=" text-[21px] py-[16px] px-[30px] bg-[white] text-[#161513] rounded-[50px] font-[600]">
                         Get in touch
                     </button>
                 </a>
-                <a href="AYANDIRANDANIELOLUWANIFEMIRESUME.pdf">
-                    <button className=" text-[21px] py-[16px] px-[30px] border-2 border-solid border-white  text-white rounded-[50px]">
-                        Download CV
-                    </button>
-                </a>
+
+                <button className=" text-[21px] py-[16px] px-[30px] border-2 border-solid border-white  text-white rounded-[50px]">
+                    <a href="AYANDIRANDANIELOLUWANIFEMIRESUME.pdf">
+                        Download&nbsp;CV
+                    </a>
+                </button>
             </div>
 
             <p className="text-[#C5C5C5] text-[20px] mt-[88px] font-[600]">
