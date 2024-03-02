@@ -23,6 +23,12 @@ export default function Contact() {
                 >
                     <Image src={z1} alt="" /> nifemiayandiran@gmail.com
                 </a>
+                <a
+                    href="tel:07775221852"
+                    className="mb-[42px] flex gap-[6px] text-[#C5C5C5]  text-[14px] font-[600]"
+                >
+                    <Image src={z1} alt="" /> 07775221852
+                </a>
                 <div className="flex gap-[27px]">
                     <a href="https://twitter.com/AgbaCodes">
                         <Image src={z3} alt="" />{" "}
